@@ -9,11 +9,13 @@ html, body {
 }
 
 body {
+
 	--color-text: #262523;
     --color-bg: #ffffff;
     --color-link: #eca324;
     --color-link-hover: #262523;
     --color-title: #ffffff;
+	background-color: red;
     
 }
 
